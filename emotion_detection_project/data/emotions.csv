@@ -1,0 +1,51 @@
+text,emotion
+"I am feeling good",happy
+"I am happy",happy
+"I am feeling cheerful",happy
+"I am excited for the weekend",happy
+"I am grateful for my family",happy
+"I am feeling relaxed",happy
+"I am in a good mood",happy
+"I am content with my day",happy
+"I am feeling positive",happy
+"I am feeling motivated",happy
+"I am feeling loved",happy
+"I am having fun",happy
+"I am enjoying the weather",happy
+"I am feeling confident",happy
+"I am hopeful about the future",happy
+"I am excited to start my new job",happy
+
+"I am feeling down",sad
+"I am sad",sad
+"I am feeling lonely",sad
+"I am disappointed",sad
+"I am missing my friends",sad
+"I am feeling hopeless",sad
+"I am having a bad day",sad
+"I am feeling emotional",sad
+"I am feeling drained",sad
+"I am feeling helpless",sad
+"I am upset about the situation",sad
+"I am feeling discouraged",sad
+"I am heartbroken",sad
+"I am feeling empty",sad
+"I am struggling today",sad
+"I am feeling lost",sad
+
+"I am feeling angry",angry
+"I am annoyed",angry
+"I am frustrated",angry
+"I am furious right now",angry
+"I am irritated by the delay",angry
+"I am feeling aggressive",angry
+"I am fuming with rage",angry
+"I am mad about the situation",angry
+"I am feeling short-tempered",angry
+"I am losing my patience",angry
+"I am not in the mood",angry
+"I am feeling hostile",angry
+"I am irritated with the noise",angry
+"I am angry at myself",angry
+"I am frustrated with my work",angry
+"I am fed up with everything",angry
